@@ -137,9 +137,9 @@ flutter run
 ## 📲 APK ou Versão Web
 
 ### Link para baixar o APK
-[📥 Baixar APK](https://github.com/wlamilton/superhero-hub-flutter/releases/download/v1.0.0/superhero_app.apk)
+[📥 Baixar APK](https://github.com/wlamilton/superhero-hub-flutter/releases/download/v1.0.1/superhero_app.4.apk)
 
-> Observação: o APK foi gerado via FlutLab. Em alguns dispositivos Android, pode haver incompatibilidade de instalação devido à arquitetura do build.
+> APK atualizado e testado em arquitetura ARM64 para dispositivos Android.
 
 ## 📸 Prints da Aplicação
 
