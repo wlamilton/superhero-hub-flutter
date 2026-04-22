@@ -134,6 +134,11 @@ flutter run
 
 ---
 
+## 📲 APK ou Versão Web
+
+### Link para baixar o APK
+[📥 Baixar APK](https://github.com/wlamilton/superhero-hub-flutter/releases/download/v1.0.0/superhero_app.apk)
+
 ## 📸 Prints da Aplicação
 
 ### Tela Inicial
